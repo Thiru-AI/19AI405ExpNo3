@@ -1,6 +1,6 @@
 <h1>ExpNo 3 : Implement Breadth First Search Traversal of a Graph</h1> 
-<h3>Name: VISHAL GOWTHAMAN K R</h3>
-<h3>Register Number: 212221230123 </h3>
+<h3>Name: Thirugnanamoorthi G </h3>
+<h3>Register Number: 212221230117 </h3>
 
 <H3>Aim:</H3>
 <p>To Implement Breadth First Search Traversal of a Graph using Python 3.</p>
